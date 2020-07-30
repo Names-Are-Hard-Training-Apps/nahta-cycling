@@ -26,3 +26,6 @@ Currently, we build with Maven.
 # WARNING
 
 Currently, this app does nothing. Unless you are a developer, there is nothing to do. There is nothing to document right now, unless you want to document getting spring boot set up. I don't know that that is necessary given the files in the repo, but I am open to ideas.
+
+# TESTING
+To run the application, run 'java -jar /path/to/jar/that/maven/built.jar
