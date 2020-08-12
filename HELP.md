@@ -1,5 +1,9 @@
 # Getting Started
 
+PLEASE NOTE THAT THIS DOES NOT CURRENTLY DO ANYTHING.
+
+However, if you want some help getting set up with some of the technologies we plan to use, please see below.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
