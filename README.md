@@ -1,7 +1,7 @@
 # nahta-cycling
 Names Are Hard Training App for Cycling
 
-TrainerRoad and Kudo Coach are designed for racing. We are going to start off targeting Randonneuring and Touring. If you don't know what Randonneuring is: https://en.wikipedia.org/wiki/Randonneuring. We would also like to integrate Strava challenges. Really any sort of distance challenge. We are not sure how we would incorporate something like Wandrer, but if you have suggestions, please file an issue.
+TrainerRoad and Kudo Coach are designed for racing. We are going to start off targeting Randonneuring and Touring. If you don't know what Randonneuring is: https://en.wikipedia.org/wiki/Randonneuring. We would also like to integrate Strava challenges. Really any sort of distance challenge (or a time challenge, such as https://en.wikipedia.org/wiki/Fl%C3%A8che_(cycling)). We are not sure how we would incorporate something like Wandrer, but if you have suggestions, please file an issue.
 
 In the future we may do more with racing.
 
