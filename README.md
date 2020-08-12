@@ -15,7 +15,7 @@ If anyone feels strongly about using something other than the Apache license, th
 
 NAHTA Cycling uses Spring Boot, Spring Boot DevTools, Spring Web, and Apache Camel.
 
-#Languages
+# Languages
 Currently, the expectation is that this will be Java. Pull requests from any language are welcome.
 
 # Integrations
