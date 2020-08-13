@@ -10,4 +10,4 @@ public class CyclingApplication {
 		SpringApplication.run(CyclingApplication.class, args);
 	}
 
-}
+	}
