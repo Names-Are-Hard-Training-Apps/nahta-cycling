@@ -1,11 +1,12 @@
 //This is if the user wants to import a local file. We start with the Garmin tcx format.
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// these import statements come from https://camel.apache.org/camel-spring-boot/latest/
+import org.apache.camel.builder.RouteBuilder;
+import org.springframework.stereotype.Component;
 
 @Component
-public class MyRoute extends RouteBuilder {
+public class local extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
